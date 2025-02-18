@@ -1,12 +1,13 @@
-<<<<<<< HEAD
 # Basic_todolist_app
 It is a Basic Todo List web app made using Typescript and React.
 
-In the project directory, you can run:
+To run the project:
+-open the project directory in VS Code
+-run command: ~yarn install
+(this will install all the dependencies)
 
-~yarn start
-
-Runs the app in the development mode.
+-then run command: ~yarn start
+(this Rujns the app in the development mode.)
 
 Open http://localhost:3000 to view it in the browser.
 
